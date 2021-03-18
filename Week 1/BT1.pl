@@ -1,0 +1,9 @@
+s-->np,vp.
+np-->det,nn.
+np-->det,np.
+np-->jj,nn.
+vp-->vb,np.
+det-->[a];[the].
+jj-->[lucky].
+nn-->[man];[woman].
+vb-->[loves];[shoots].
