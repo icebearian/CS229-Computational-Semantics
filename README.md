@@ -13,3 +13,5 @@
 - [ ] Ngữ nghĩa câu với biểu thức lamda
 ## Chapter 4: Cấu trúc biểu diễn ngôn
 ## Chapter 5: WORDNET
+
+## Capstone Project: Ngữ nghĩa học tính toán
