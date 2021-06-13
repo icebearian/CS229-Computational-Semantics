@@ -1,5 +1,5 @@
 # CS229.L21.KHCL
-# Các kỹ thuật trong xử lý ngôn ngữ tự nhiên
+# Ngữ nghĩa học tính toán
 
 ## Chapter 1: Giới thiệu
 - [x] Ngôn ngữ Prolog
