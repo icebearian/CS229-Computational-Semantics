@@ -7,6 +7,7 @@
 - Chương 1. Giới thiệu <br>
 - Chương 2. Nguyên lý Frege trong tính toán ngữ nghĩa hình thức <br>
 - Chương 3. Phương pháp tính toán ngữ nghĩa hình thức trong DCG <br>
+
 **Phần II – BIỂU DIỄN VÀ TÍNH TOÁN NGỮ NGHĨA CÂU, VĂN BẢN** <br>
 - Chương 4. Ngữ nghĩa câu trong logic bậc nhất <br>
 - Chương 5. Cấu trúc biểu diễn diễn ngôn. <br>
