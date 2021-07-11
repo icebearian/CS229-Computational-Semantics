@@ -13,7 +13,7 @@
 - Chương 5. Cấu trúc biểu diễn diễn ngôn. <br>
 
 **Đề tài đồ án**: Ngữ nghĩa học tính toán
-- [x] [Nội dung](https://github.com/icebearian/CS229-Computational-Semantics/blob/main/Capstone%20Project/README.md). 
-- [x] [Source code[(https://github.com/icebearian/CS229-Computational-Semantics/tree/main/Capstone%20Project).
+- [x] [Nội dung](https://github.com/icebearian/CS229-Computational-Semantics/blob/main/Capstone%20Project/README.md)
+- [x] [Source code](https://github.com/icebearian/CS229-Computational-Semantics/tree/main/Capstone%20Project).
 - [x] Báo cáo.
 
