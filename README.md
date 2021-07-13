@@ -15,5 +15,5 @@
 **Đề tài đồ án**: Ngữ nghĩa học tính toán
 - [x] [Nội dung](https://github.com/icebearian/CS229-Computational-Semantics/blob/main/Capstone%20Project/README.md)
 - [x] [Source code](https://github.com/icebearian/CS229-Computational-Semantics/tree/main/Capstone%20Project).
-- [x] Báo cáo.
+- [x] [Báo cáo](https://github.com/icebearian/CS229-Computational-Semantics/blob/main/Capstone%20Project/18520918_18521259_FinalReport.pdf).
 
